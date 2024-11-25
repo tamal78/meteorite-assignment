@@ -30,9 +30,11 @@ const HeroSection = () => {
               className="w-8 h-8 rounded-full"
             />
             <div className="text-slate-600 text-lg flex items-center gap-2 md:gap-5">
-              <p className="lg:text-lg text-xs">Guide by Ása Steinars</p>
-              <p className="lg:text-md text-xs">Norway</p>
-              <p className="lg:text-md text-xs">★ New</p>
+              <p className="lg:text-lg text-xs text-rexbygray-900">
+                Guide by Ása Steinars
+              </p>
+              <p className="lg:text-lg text-xs text-rexbygray-900">Norway</p>
+              <p className="lg:text-lg text-xs text-rexbygray-900">★ New</p>
             </div>
           </div>
           <p className="text-slate-600 text-md mt-4 leading-relaxed">
